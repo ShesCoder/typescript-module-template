@@ -1,0 +1,24 @@
+{
+  "name": "using-typescript-modules",
+  "version": "1.0.0",
+  "description": " ",
+  "main": " ",
+  "scripts": {
+    "serve": "node node_modules/esmodules-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esmodules-dev-server": "^0.0.4",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.31",
+    "jquery": "^3.4.1"
+  }
+}
